@@ -108,8 +108,7 @@ convirtiéndose en el principal método de pago utilizado por los clientes.
 El análisis temporal permitió observar la evolución de los pedidos durante el período analizado.
 
 ### Conclusión
-
-Se observó un crecimiento sostenido de los pedidos durante gran parte del período analizado,
+**Se observó un crecimiento sostenido de los pedidos durante gran parte del período analizado,
 acompañado por fluctuaciones estacionales que podrían asociarse a campañas comerciales y períodos de alta demanda.
 ---
 
