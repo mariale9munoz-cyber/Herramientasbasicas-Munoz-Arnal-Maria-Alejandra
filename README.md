@@ -1,7 +1,10 @@
 # Proyecto Final de Data Analytics
 ## Análisis del comportamiento de compra en el comercio electrónico brasileño
 ### Dataset Olist E-Commerce
-Autora: Maria Alejabdra Muñoz Arnal
+
+### AUTORA: 
+MARIA ALEJANDRA MUÑOZ ARNAL
+
 ## Resumen Ejecutivo
 
 Este proyecto analiza más de 99.000 pedidos realizados en el marketplace brasileño Olist para comprender patrones de compra, métodos de pago y comportamiento comercial.
