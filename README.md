@@ -135,9 +135,6 @@ Se desarrolló un dashboard interactivo orientado al seguimiento de indicadores 
 - Importe por método de pago.
 - Productos por categoría.
 
-### Vista del Dashboard
-
-## Vista del Dashboard
 
 ## 📊 Vista del Dashboard
 Dashboard interactivo desarrollado en Power BI para el análisis de pedidos, métodos de pago y categorías de productos del marketplace Olist.
