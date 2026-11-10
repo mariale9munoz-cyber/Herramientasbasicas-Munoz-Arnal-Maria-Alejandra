@@ -1,6 +1,13 @@
-# Proyecto Final | Data Analytics
+# Proyecto Final de Data Analytics
+## Análisis del comportamiento de compra en el comercio electrónico brasileño
+### Dataset Olist E-Commerce
 
-# ¿Cómo compran los clientes del comercio electrónico brasileño?
+## Resumen Ejecutivo
+
+Este proyecto analiza más de 99.000 pedidos realizados en el marketplace brasileño Olist para comprender patrones de compra, métodos de pago y comportamiento comercial.
+
+A través de Python, Pandas y Power BI se desarrolló un proceso completo de análisis exploratorio que permitió identificar tendencias relevantes y construir un dashboard interactivo para el seguimiento de indicadores clave.
+
 
 ### Un análisis exploratorio utilizando el dataset Olist
 
@@ -91,7 +98,8 @@ La tarjeta de crédito fue el método de pago predominante.
 
 ### Conclusión
 
-Existe una fuerte preferencia por medios de pago digitales, especialmente tarjetas de crédito.
+La tarjeta de crédito concentró más del 70% de las transacciones registradas,
+convirtiéndose en el principal método de pago utilizado por los clientes.
 
 ---
 
@@ -101,8 +109,8 @@ El análisis temporal permitió observar la evolución de los pedidos durante el
 
 ### Conclusión
 
-La actividad comercial presenta variaciones a lo largo del tiempo, lo que permite identificar tendencias y apoyar decisiones estratégicas.
-
+Se observó un crecimiento sostenido de los pedidos durante gran parte del período analizado,
+acompañado por fluctuaciones estacionales que podrían asociarse a campañas comerciales y períodos de alta demanda.
 ---
 
 # 📊 5. Dashboard en Power BI
@@ -111,9 +119,16 @@ Se desarrolló un dashboard interactivo orientado al seguimiento de indicadores 
 
 ### KPIs
 
-- Total de pedidos.
-- Importe total.
-- Ticket promedio.
+## Indicadores principales
+
+| Métrica | Valor |
+|----------|---------|
+| Pedidos analizados | 99.441 |
+| Pagos registrados | 103.886 |
+| Productos vendidos | 112.650 |
+| Productos únicos | 32.951 |
+| Pedidos entregados | 96.478 |
+| Pedidos cancelados | 625 |
 
 ### Visualizaciones
 
@@ -122,7 +137,10 @@ Se desarrolló un dashboard interactivo orientado al seguimiento de indicadores 
 
 ### Vista del Dashboard
 
-> Inserta aquí la captura final del dashboard.
+## Vista del Dashboard
+
+![Dashboard Power BI](images\KPIs PBI 2026-11-10.png)
+
 
 ---
 
