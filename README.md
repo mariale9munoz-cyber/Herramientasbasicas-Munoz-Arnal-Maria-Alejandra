@@ -139,8 +139,10 @@ Se desarrolló un dashboard interactivo orientado al seguimiento de indicadores 
 
 ## Vista del Dashboard
 
-![Dashboard Power BI](images\KPIs PBI 2026-11-10.png)
-"C:\Users\maria\OneDrive\Documentos\GitHub\Herramientasbasicas-Munoz Arnal-Maria Alejandra\images\KPIs PBI 2026-11-10.png"
+## 📊 Vista del Dashboard
+Dashboard interactivo desarrollado en Power BI para el análisis de pedidos, métodos de pago y categorías de productos del marketplace Olist.
+
+![Dashboard Olist](images/dashboard_final.png)
 
 ---
 
