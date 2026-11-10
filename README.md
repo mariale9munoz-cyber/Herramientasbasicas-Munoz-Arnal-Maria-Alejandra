@@ -140,7 +140,7 @@ Se desarrolló un dashboard interactivo orientado al seguimiento de indicadores 
 ## Vista del Dashboard
 
 ![Dashboard Power BI](images\KPIs PBI 2026-11-10.png)
-
+"C:\Users\maria\OneDrive\Documentos\GitHub\Herramientasbasicas-Munoz Arnal-Maria Alejandra\images\KPIs PBI 2026-11-10.png"
 
 ---
 
@@ -176,6 +176,17 @@ requirements.txt
 ```
 
 ---
+## Impacto para el negocio
+
+Los resultados obtenidos permiten:
+
+- Comprender las preferencias de pago de los clientes.
+- Identificar categorías con mayor participación en ventas.
+- Monitorear la evolución de la demanda.
+- Detectar indicadores relevantes para la operación logística.
+- Apoyar la toma de decisiones basada en datos.
+
+
 
 # ✅ Conclusión
 
@@ -184,3 +195,4 @@ Este proyecto permitió integrar Python, Power BI y GitHub en un flujo completo 
 Los resultados obtenidos muestran cómo los datos pueden transformarse en información útil para comprender el comportamiento de clientes, pedidos y métodos de pago dentro del comercio electrónico.
 
 La combinación de análisis exploratorio, visualización y dashboard interactivo permitió convertir datos operativos en información relevante para la toma de decisiones.
+
