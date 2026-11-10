@@ -2,8 +2,7 @@
 ## Análisis del comportamiento de compra en el comercio electrónico brasileño
 ### Dataset Olist E-Commerce
 
-### AUTORA: 
-MARIA ALEJANDRA MUÑOZ ARNAL
+### AUTORA: MARIA ALEJANDRA MUÑOZ ARNAL
 
 ## Resumen Ejecutivo
 
